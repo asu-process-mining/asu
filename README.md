@@ -1,5 +1,4 @@
-# Product Usage Log Process Mining- A Research Agenda for Data Driven 
-Product Design and Evaluation
+# Product Usage Log Process Mining- A Research Agenda for Data Driven Product Design and Evaluation
 
 
 ## Process Mining Overview
