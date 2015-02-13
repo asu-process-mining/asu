@@ -13,7 +13,7 @@ from CRM systems or other information systems which contain events that
 can be used to build a model of a multi-event process. These models can be
 used for exploratory data analysis or to compare actual event data to a
 ideal model for a process. Please see Wil M. P. van der Aalst's book, 
-[**Process Mining**][book](2011) for more details.
+[**Process Mining**][book] (2011) for more details.
 
 ## Research Project Overview
 
