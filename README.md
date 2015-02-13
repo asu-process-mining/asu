@@ -1,3 +1,5 @@
+![ASU](https://commguide.asu.edu/files/endorsed/color/ASUWPC_RGB.png)
+
 # Product Usage Log Process Mining- A Research Agenda for Data Driven Product Design and Evaluation
 
 
