@@ -37,7 +37,7 @@ practice and academic research in this area.
   formats can used in process mining.
 
   -We plan to build our analysis pipeline and tools using the Python programming
-  language. [**Python**][python], and its [**SciPy*][scipy] ecosystem of mathematics,
+  language. [**Python**][python], and its [**SciPy**][scipy] ecosystem of mathematics,
   science, and engineering libraries are increasingly being used in both
   practice and research when doing data mining and analysis.
 
