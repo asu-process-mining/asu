@@ -64,6 +64,7 @@ practice and academic research in this area.
 [python]: https://www.python.org/
 [scipy]: http://www.scipy.org/
 [raghu]: http://my.wpcarey.asu.edu/directory/people/profile.cfm?person=1039602
+[pandas]: https://github.com/pydata/pandas/
 
 
 ## The Team
@@ -71,4 +72,17 @@ practice and academic research in this area.
 [**Raghu Santanam**][raghu] is a professor at Arizona State University in the
 Department of Information Systems and the principal investigator for this 
 project.
+
+**Sean Schaefer** is a research engineer who works as a software developer
+at a large multi-national. Sean has contributed to the Python [**pandas**][pandas]
+project and worked with a variety of big data technologies. Sean graduated with honors 
+from the ASU computer science program in the Ira A. Fulton Engineering School. 
+
+**Collin Sellman** is a data scientist for a large multi-national and a visiting
+researcher at ASU. Collin is focused on how to use data to improve digital products 
+and services.
+
+**Abhijeet Srivastava** is a graduate student in computer science at ASU in the 
+Ira A. Fulton Engineering school and a researcher in the Department of Information 
+Systems under Dr. Santanam.
 
