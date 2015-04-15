@@ -9,7 +9,7 @@ Event logs in systems can be used to create visualization models for describing 
 
 ## Research Project Overview
 
-Our project seeks to add to the work done in the general areas of graph mining, event sequence analyses and process mining by focusing on event stream mining as a means to better understand the use of digital products like Software as a Service (SaaS). Specifically, we are interested in developing new mining techniques to understand the value co-creation processes between SaaS providers and their users. To this end, there are several unique elements and contributions we hope to make to both practice and academic research in this area. 
+Our project seeks to add to the work done in the general areas of graph mining, event sequence analyses, and process mining by focusing on event stream mining as a means to better understand the use of digital products like Software as a Service (SaaS). Specifically, we are interested in developing new mining techniques to understand the value co-creation processes between SaaS providers and their users. To this end, there are several unique elements and contributions we hope to make to both practice and academic research in this area. 
 
 
   -Our technical approach is based on current Big Data technologies which
