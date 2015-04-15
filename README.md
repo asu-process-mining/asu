@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-Event logs in systems can be used to create visualization models for describing dominant usage patterns, predicting behavior and dynamically adapt and customize user interfaces. Mining event sequences using innovative graph mining techniques is an emerging discipline and draws from Information Systems and Computer Science disciplines. In a nutshell, mined event sequences from event logs can help model relations among events and user actions (such as page views, menu usage sequence, product views in a catalog, etc.). Related applications included analyses of event logs from CRM systems or other information systems which contain events that can be used to build a model of a multi-event process. These models can be used for exploratory data analysis or to compare actual event data to an ideal model.
+Event logs in systems can be used to create visualization models for describing dominant usage patterns, predicting behavior, and dynamically adapting and customizing user interfaces. Mining event sequences using innovative graph mining techniques is an emerging discipline and draws from Information Systems and Computer Science disciplines. In a nutshell, mined event sequences from event logs can help model relations among events and user actions (such as page views, menu usage sequence, product views in a catalog, etc.). Related applications included analyses of event logs from CRM systems or other information systems which contain events that can be used to build a model of a multi-event process. These models can be used for exploratory data analysis or to compare actual event data to an ideal model.
 
 ## Research Project Overview
 
