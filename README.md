@@ -1,4 +1,4 @@
-![ASU](https://commguide.asu.edu/files/endorsed/color/ASUWPC_RGB.png)
+![ASU](https://commguide.asu.edu/downloads/asulogo/jpg/logo_mg.jpg)
 
 # Product Usage Mining- A Research Agenda for Data Driven Product Design and Evaluation
 
@@ -69,6 +69,10 @@ researcher at ASU. Collin is focused on how to use data to improve digital produ
 and services.
 
 **Abhijeet Srivastava** is a graduate student in computer science at ASU in the 
+Ira A. Fulton Engineering school and a researcher in the Department of Information 
+Systems under Dr. Santanam.
+
+**Ramu Ponneganti** is also a graduate student in computer science at ASU in the 
 Ira A. Fulton Engineering school and a researcher in the Department of Information 
 Systems under Dr. Santanam.
 
