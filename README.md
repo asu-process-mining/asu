@@ -1,4 +1,4 @@
-![ASU](https://commguide.asu.edu/downloads/asulogo/jpg/logo_mg.jpg)
+![ASU](https://commguide.asu.edu/files/preview/ASUWPC_RGB.png)
 
 # Product Usage Mining- A Research Agenda for Data Driven Product Design and Evaluation
 
