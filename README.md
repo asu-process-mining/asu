@@ -68,10 +68,6 @@ from the ASU computer science program in the Ira A. Fulton Engineering School.
 researcher at ASU. Collin is focused on how to use data to improve digital products 
 and services.
 
-**Abhijeet Srivastava** is a graduate student in computer science at ASU in the 
-Ira A. Fulton Engineering school and a researcher in the Department of Information 
-Systems under Dr. Santanam.
-
 **Ramu Ponneganti** is also a graduate student in computer science at ASU in the 
 Ira A. Fulton Engineering school and a researcher in the Department of Information 
 Systems under Dr. Santanam.
