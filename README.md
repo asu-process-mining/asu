@@ -23,11 +23,7 @@ Our project seeks to add to the work done in the general areas of graph mining, 
   SaaS user event logging. We hope to provide insight into how such general
   formats can easily be used as inputs into a "web scale" data set analysis.
 
-  -We plan to build our analysis pipeline and tools using the Python programming
-  language. [**Python**][python] and its [**SciPy**][scipy] ecosystem of mathematics,
-  science, and engineering libraries are increasingly being used in both
-  practice and research when doing data mining and analysis on large and diverse 
-  datasets.
+  -Our work to date has been using the [Apache Spark](http://spark.apache.org/) framework and it's [GraphX](http://spark.apache.org/graphx/) library.
 
   -We plan to contribute any libraries, frameworks, or approaches we develop
   to the open source community under a BSD license. 
